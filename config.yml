@@ -1,5 +1,5 @@
-baseURL: "https://examplesite.com/"
-title: ExampleSite
+baseURL: "https://blog.hybridnet.org/"
+title: Blog Hybridnet
 paginate: 5
 theme: PaperMod
 
@@ -74,7 +74,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Content: Selamat datang di blog kami
 
   socialIcons:
     - name: twitter
